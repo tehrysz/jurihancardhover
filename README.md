@@ -1,2 +1,2 @@
 # jurihancardhover
-Card hover with Juri Han from Street Fighter theme.
+Card hover with Juri Han theme.
